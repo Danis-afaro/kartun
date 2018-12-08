@@ -1,77 +1,151 @@
-MAKKAH TV http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-218 http://95.85.47.43/218tv/tracks-v1a1/index.m3u8
-AL GHADEER http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
-AL HADATH http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-AL MANAR http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-AL NABAA http://cdg3.edge.tmed.pw/alnabaatv/abr/alnabaatv/live_1024p/chunks.m3u8
-AL RAI http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-AL SHARQIYA http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-AL WATAN http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
-ANDISHEH TV http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-ANN http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-APADANA TV http://stream.aeducationaltv.org/watch/playlist.m3u8
-DRAMA http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-DREAMLAND TV http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
-FUTURE http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
-HIGH VISION TV http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
-IRIB 1 http://cdn1.live.irib.ir:1935/e-tv/tv1-1mb.stream/playlist.m3u8
-IRIB 2 http://cdn1.live.irib.ir:1935/e-tv/tv2-1mb.stream/playlist.m3u8
-IRIB BARAN TV http://cdn1.live.irib.ir:1935/e-tv/baran-300k.stream/playlist.m3u8
-IRIB TAMASHA http://cdn1.live.irib.ir:1935/e-tv/tamasha-300k.stream/playlist.m3u8
-IRINN http://cdn1.live.irib.ir:1935/e-tv/irinn-300k.stream/playlist.m3u8
-KANAL YEK TV http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
-KTV 1 http://www.elahmad.com/tv/m3u8/ktv.m3u8
-KTV 1 (1+) https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-KTV 2 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-KTV AL MAJLIS https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-KTV ETHRAA https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
-KTV PLUS https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-MELLI TV CHANNEL http://208.75.229.50:1935/mellitv/myStream.sdp/playlist.m3u8
-NABD http://www.elahmad.com/tv/m3u8/akamaihd.m3u8
-OMID-E http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8
-ONE TV http://82.212.74.2:8000/live/7308.m3u8
-PARS TV http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
-PBC TAPESH TV http://iptv.tapesh.tv/tapesh/playlist.m3u8
-VOA http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-CHANNEL ONE http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
-ECHOUROUK TV http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
-AOULA LAAYOUNE http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-AL JAZEERA DOCUMENTAIRE http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
-DAFRAH TV http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
-JAZEERA BALKANS http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-MAGHRIBIA (1+) http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-NABAA http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8
-2M MAROC http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
-2M MAROC (1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
-ABU DHABI DRAMA http://www.elahmad.com/tv/m3u8/adtv.m3u8
-ABU DHABI TV http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
-ABU DHABI TV (1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
-ABUDHABI EMIRAT http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
-ABUDHABI EMIRAT (1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
-AD DRAMA http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
-AD DRAMA (1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
-AL AAN http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-AL TANASUH TV LIBYA http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
-AL WAAD CH LEBANON http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
-BAHRAIN INTERNATIONAL (1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.m3u8
-BAHRAIN QURAN http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.m3u8
-MBC 1 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
-MBC 2 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
-MEDIOS RIOJA http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
-MTV LEBENON http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
-Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-Syrian drama http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
-Trt turkey http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-Semerkand HD http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-TRT Diyanet http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-Amozhgary TV http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
-ADSport 1HD http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-ADSport 2HD http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-AL KASS SPORTS 1 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-KASS SPORTS 2 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-AL KASS SPORTS 4 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-KASS SPORTS 5 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-Abu Dhabi Sports 1 HD http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-Abu Dhabi Sports 2 HD http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+http://95.85.47.43/218tv/tracks-v1a1/index.m3u8
+AL GHADEER 
+http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
+AL HADATH
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+AL MANAR
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+AL NABAA 
+http://cdg3.edge.tmed.pw/alnabaatv/abr/alnabaatv/live_1024p/chunks.m3u8
+AL RAI 
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+AL SHARQIYA 
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+AL WATAN 
+http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+ANDISHEH TV
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+ANN 
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+APADANA TV 
+http://stream.aeducationaltv.org/watch/playlist.m3u8
+DRAMA
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+DREAMLAND TV 
+http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
+FUTURE
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+HIGH VISION TV
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
+IRIB 1
+http://cdn1.live.irib.ir:1935/e-tv/tv1-1mb.stream/playlist.m3u8
+IRIB 2
+http://cdn1.live.irib.ir:1935/e-tv/tv2-1mb.stream/playlist.m3u8
+IRIB BARAN TV
+http://cdn1.live.irib.ir:1935/e-tv/baran-300k.stream/playlist.m3u8
+IRIB TAMASHA 
+http://cdn1.live.irib.ir:1935/e-tv/tamasha-300k.stream/playlist.m3u8
+IRINN 
+http://cdn1.live.irib.ir:1935/e-tv/irinn-300k.stream/playlist.m3u8
+KANAL YEK TV 
+http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+KTV 1
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
+KTV 1(1+)
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+KTV 2 
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+KTV AL MAJLIS 
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+KTV ETHRAA 
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+KTV PLUS 
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+MELLI TV CHANNEL 
+http://208.75.229.50:1935/mellitv/myStream.sdp/playlist.m3u8
+NABD 
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8
+OMID-E 
+http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8
+ONE TV
+http://82.212.74.2:8000/live/7308.m3u8
+PARS TV 
+http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+PBC TAPESH TV 
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+VOA 
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+CHANNEL ONE
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+ECHOUROUK TV 
+http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
+AOULA LAAYOUNE
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+AL JAZEERA DOCUMENTAIRE
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
+DAFRAH TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+JAZEERA BALKANS 
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+MAGHRIBIA (1+)
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+NABAA 
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8
+2M MAROC
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
+2M MAROC
+(1+) http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
+ABU DHABI DRAMA 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+ABU DHABI TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
+ABU DHABI TV (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
+ABUDHABI EMIRAT 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
+ABUDHABI EMIRAT (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
+AD DRAMA 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
+AD DRAMA (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
+AL AAN
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+AL TANASUH TV LIBYA
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+AL WAAD CH LEBANON 
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
+BAHRAIN INTERNATIONAL (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.m3u8
+BAHRAIN QURAN 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.m3u8
+MBC 1 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
+MBC 2 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
+MEDIOS RIOJA 
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+MTV LEBENON 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
+Telemax 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+Syrian drama 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
+Trt turkey 
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+Semerkand HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+TRT Diyanet 
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+Amozhgary TV 
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+ADSport 1HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+AL KASS SPORTS 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+KASS SPORTS 2 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+AL KASS SPORTS 4 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+Abu Dhabi Sports 1 HD 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+Abu Dhabi Sports 2 HD 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 
